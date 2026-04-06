@@ -48,7 +48,7 @@ El proyecto utiliza las siguientes tecnologías:
 1. Clonar el repositorio:
 
 ```
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/JorgeRicoP/Rico-Post1_U5/
 ```
 
 2. Abrir el proyecto en IntelliJ IDEA o VS Code.
@@ -164,15 +164,7 @@ A continuación se presentan evidencias del funcionamiento de la API:
 * Eliminación de libro (DELETE)
 * Consulta en la base de datos H2
 
-*(Aquí debes insertar tus capturas de Postman o navegador)*
-
-Ejemplo:
-
-```
-/docs/postman_post.png
-/docs/postman_get.png
-/docs/h2_console.png
-```
+Estas se encuentran en la carpeta /captures
 
 ---
 
